@@ -13,3 +13,10 @@ The code will be gradually open source!
 · Scene Text Telescope: Text-Focused Scene Image Super-Resolution [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf) [[Code]](https://github.com/FudanVI/FudanOCR)
 
 · Text Prior Guided Scene Text Image Super-resolution [[Paper]](https://arxiv.org/pdf/2106.15368.pdf) [[Code]](https://github.com/mjq11302010044/TPGSR)
+
+
+## :thumbsup: Special Thanks :thumbsup:
+Additionally thank [JingyeChen](https://github.com/JingyeChen) for his help!
+
+Our framework is based on [TPGSR](https://github.com/mjq11302010044/TPGSR), [STT](https://github.com/FudanVI/FudanOCR), and [TG](https://github.com/FudanVI/FudanOCR).
+
