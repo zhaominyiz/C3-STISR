@@ -5,6 +5,9 @@ IJCAI 2022 Accepted Paper
 
 The code will be gradually open source!
 
+Due to company policy, I can't provide the code. To guarantee reproducibility, I am working on reimplement C3-STISR. The final result will be released around September. Thank you all for your support.
+
+
 ## :wink: Related Works :wink:
 · Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution [[Paper]](https://arxiv.org/pdf/2112.08171.pdf) [[Code]](https://github.com/FudanVI/FudanOCR)
 
